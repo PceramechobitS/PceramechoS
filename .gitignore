@@ -1,0 +1,9 @@
+# PceramechoS
+
+results/*
+*.log
+*.xtc
+*.trr
+*.edr
+*.cpt
+
